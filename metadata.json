@@ -1,0 +1,7 @@
+{
+  "name": "AUREX INFINITY — Beyond Luxury. Beyond Limits.",
+  "description": "An extraordinary, ultra-premium luxury digital experience showcasing bespoke sovereign acquisitions, haute horlogerie, private aeronautica, and architectural sanctuaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
